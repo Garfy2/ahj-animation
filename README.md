@@ -1,6 +1,5 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/9hj07t7ojh6n59mh?svg=true)](https://ci.appveyor.com/project/vapanov/ahj-animation)
 
-WEB Version: https://valentin-panov.github.io/ahj-animation/
+WEB Version: 
 
 ### Collapse
 
